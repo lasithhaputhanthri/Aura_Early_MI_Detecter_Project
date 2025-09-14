@@ -1,4 +1,4 @@
-# Aura Early MI Detector Project
+# Early MI Detector Project
 
 ## Setup
 
