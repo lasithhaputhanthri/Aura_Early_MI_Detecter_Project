@@ -70,7 +70,7 @@ class _VideoUploaderScreenState extends State<VideoUploaderScreen> {
       _isLoading = true;
     });
 
-    final uri = Uri.parse("http://192.168.33.16:5000/upload");  // Flask IP
+    final uri = Uri.parse("http://192.168.33.168:5000/upload");  // Flask IP
     final request = http.MultipartRequest("POST", uri);
 
     final videoBytes = await http.MultipartFile.fromPath(
