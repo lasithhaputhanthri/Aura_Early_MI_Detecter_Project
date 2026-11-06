@@ -186,7 +186,7 @@ Before setting up the project, ensure you have installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Aura_Early_MI_Detecter_Project.git
+git clone https://github.com/lasithhaputhanthri/Aura_Early_MI_Detecter_Project.git
 cd Aura_Early_MI_Detecter_Project
 ```
 
